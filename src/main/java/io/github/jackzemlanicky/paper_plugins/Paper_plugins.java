@@ -15,7 +15,7 @@ import java.util.List;
 public final class Paper_plugins extends JavaPlugin implements Listener{
 
     @Override
-    public void onEnable() {
+    public void onEnable() {//d
         // Plugin startup logic
         System.out.println("plugin starting");
         getServer().getPluginManager().registerEvents(this, this);
