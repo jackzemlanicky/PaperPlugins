@@ -1,0 +1,4 @@
+name: paper_plugins
+version: '${project.version}'
+main: io.github.jackzemlanicky.paper_plugins.Paper_plugins
+api-version: '1.20'
